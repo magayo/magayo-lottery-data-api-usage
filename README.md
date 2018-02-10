@@ -20,3 +20,11 @@ Lottery Jackpot API
 https://www.magayo.com/docs/api/jackpot.php
 
 PHP snippet: sample_jackpot.php
+
+Sample PHP snippet on how to use magayo Lottery Number Generator API
+
+Recommended Numbers API
+
+https://www.magayo.com/docs/api/numbers.php
+
+PHP snippet: sample_numbers.php
