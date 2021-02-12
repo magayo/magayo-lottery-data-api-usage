@@ -29,8 +29,12 @@ Sample PHP snippet on how to use magayo Lottery Number Generator API
 
 https://www.magayo.com/lottery-feeds/lottery-number-generator-api/
 
-Recommended Numbers API
+Recommended Pool of Lottery Numbers API
 
 PHP snippet: sample_numbers.php
+
+Recommended Lottery Tickets API
+
+PHP snippet: sample_tickets.php
 
 ===================================================================
