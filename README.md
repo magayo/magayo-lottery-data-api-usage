@@ -7,19 +7,27 @@ Sample PHP snippets on how to use magayo Lottery Data APIs:
 
 https://www.magayo.com/lottery-feeds/lottery-data-api/
 
-Game Information API
+Get Game Information API
 
 PHP snippet: sample_info.php
 
-Lottery Results API
+Get Lottery Results API
 
 PHP snippet: sample_results.php
 
-Lottery Jackpot API
+Get Next Draw API
+
+PHP snippet: sample_next_draw.php
+
+Get Next Lottery Jackpot API
 
 PHP snippet: sample_jackpot.php
 
-Past Lottery Jackpot API
+Check Is Fixed Lottery Jackpot API
+
+PHP snippet: sample_fixed_jackpot.php
+
+Get Past Lottery Jackpot API
 
 PHP snippet: sample_past_jackpot.php
 
@@ -29,12 +37,13 @@ Sample PHP snippet on how to use magayo Lottery Number Generator API
 
 https://www.magayo.com/lottery-feeds/lottery-number-generator-api/
 
-Recommended Pool of Lottery Numbers API
+Get Recommended Pool of Lottery Numbers API
 
 PHP snippet: sample_numbers.php
 
-Recommended Lottery Tickets API
+Get Recommended Lottery Tickets API
 
 PHP snippet: sample_tickets.php
 
 ===================================================================
+
